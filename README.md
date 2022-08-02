@@ -1,4 +1,4 @@
-# TicTacToe_AI
+# TicTacToe-AI
 
 A Single and Multi-Player Tic-Tac-Toe Android Game
 
