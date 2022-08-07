@@ -1,4 +1,4 @@
-# AI-Powered TicTacToe
+# AI-Powered Tic-Tac-Toe
 
 A Single and Multi-Player Tic-Tac-Toe Android Game
 
