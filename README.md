@@ -1,5 +1,5 @@
 # AI-Powered Tic-Tac-Toe
 
-A Single and Multi-Player Tic-Tac-Toe Android Game
+Implementation of Alpha–Beta Pruning AI Algorithm in Tic-Tac-Toe
 
 The single-player mode uses the alpha-beta pruning AI algorithm to make the decisions.
