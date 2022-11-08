@@ -1,4 +1,4 @@
-# AI-Powered Tic-Tac-Toe
+# Alpha-Beta Pruning
 
 ### The implementation of Alpha–Beta Pruning AI Algorithm in Tic-Tac-Toe
 
@@ -23,7 +23,7 @@ This project implements the Alpha–Beta Pruning algorithm in combination with t
   ```
 #### 3. You're ready to go!
   ```
-  * The documentations will be provided soon.
+  * The documentation will be provided soon.
   ```
 <!-- View Documentation -->
  
