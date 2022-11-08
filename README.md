@@ -12,7 +12,7 @@ This project implements the Alpha–Beta Pruning algorithm in combination with t
 ## Getting Started
 #### 1. Fork the project and clone the repository:
   ```
-  * git clone git://github.com/ak811/ai-powered-tictactoe.git
+  * git clone git://github.com/ak811/alpha-beta-pruning.git
   ```
 #### 2. Import the project via Android Studio:
   ```
