@@ -1,6 +1,6 @@
 # Alpha-Beta Pruning
 
-### The implementation of Alpha–Beta Pruning AI Algorithm in Tic-Tac-Toe
+### Implementation of Alpha–Beta Pruning AI Algorithm in Tic-Tac-Toe
 
 <br>
 
