@@ -5,7 +5,7 @@
 <br>
 
 ## Overview
-This project implements the Alpha–Beta Pruning algorithm in combination with the Minimax algorithm in Tic-Tac-Toe. It consists of single and multiplayer modes, and the single-player mode uses the alpha-beta pruning algorithm to make decisions.
+This project implements the Alpha–Beta Pruning algorithm in combination with the Minimax algorithm in Tic-Tac-Toe. It comprises single and multiplayer modes, and the single-player mode uses the alpha-beta pruning algorithm to make decisions.
 
 <br>
 
