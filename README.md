@@ -5,7 +5,7 @@
 <br>
 
 ## Overview
-This project implements the alpha-beta pruning algorithm, an optimization technique for the minimax algorithm. In this repository, the algorithm is being tested on the Tic-Tac-Toe game. It comprises single and multiplayer modes, and the single-player mode uses the alpha-beta pruning algorithm to make decisions.
+The alpha-beta pruning algorithm is an optimization technique for the minimax algorithm, which is commonly used in game-playing AI. The minimax algorithm evaluates all possible moves for a player, and then their opponent's response to those moves, and so on, to determine the best move for the original player. The alpha-beta pruning algorithm is used to speed up this process by eliminating branches of the game tree that are not likely to affect the final outcome. In this project, the alpha-beta pruning algorithm is being tested on the single-player mode of a Tic-Tac-Toe game.
 
 <br>
 
